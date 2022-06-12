@@ -1,0 +1,64 @@
+Shell sort
+E A S Y Q U E S T I O N
+N= 12
+h=1 => 4
+h=4 
+i=4, j=4
+E A S Y Q U E S T I O N
+i=5, j=5
+E A S Y Q U E S T I O N
+i = 6, j =6
+E A E Y Q U S S T I O N 
+I=7,J=7
+E A E S Q U S Y T I O N
+i=8, j=8
+E A E S Q U S Y T I O N
+i=8, j=4
+E A E S Q U S Y T I O N
+i =9,j=9
+E A E S Q I S Y T U O N
+i =9,j=5
+E A E S Q I S Y T U O N
+i =10,j=10
+E A E S Q I O Y T U S N
+i=10,j=6
+E A E S Q I O Y T U S N
+i=11,j=11
+E A E S Q I O N T U S Y
+i=11,j=7
+E A E N Q I O S T U S Y
+
+h=1
+i=1, j=1
+A E E N Q I O S T U S Y
+i=2, j=2
+A E E N Q I O S T U S Y
+i=3, j=3
+A E E N Q I O S T U S Y
+i=4, j=4
+A E E N Q I O S T U S Y
+i=5, j=5
+A E E N I Q O S T U S Y
+i=5, j=4
+A E E I N Q O S T U S Y
+i=5, j=3
+A E E I N Q O S T U S Y
+i=6, j=6
+A E E I N O Q S T U S Y
+i=6, j=5
+A E E I N O Q S T U S Y
+i=7, j=7
+A E E I N O Q S T U S Y
+i=8, j=8
+A E E I N O Q S T U S Y
+i=9, j=9
+A E E I N O Q S T U S Y
+i=10, j=10
+A E E I N O Q S T S U Y
+i=10, j=9
+A E E I N O Q S S T U Y
+
+
+
+
+
